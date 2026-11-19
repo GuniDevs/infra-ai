@@ -1,0 +1,3 @@
+Checks: 'bugprone-*,performance-*,clang-analyzer-*,readability-function-cognitive-complexity'
+WarningsAsErrors: ''
+HeaderFilterRegex: '(src|seeded)/.*'
